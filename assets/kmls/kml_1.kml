@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Mount Everest</name>
+	<gx:CascadingStyle kml:id="__managed_style_2790BCC969358449D165">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40f5a542</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_168D56B845358449D165">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40f5a542</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0AA43A00B7358449D165">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_168D56B845358449D165</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2790BCC969358449D165</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_27EBA8F5E63584488084">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1DD34F5BA63584488084">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_057F2167FA3584488084">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1DD34F5BA63584488084</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_27EBA8F5E63584488084</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="02E8CDFC6B3584488083">
+		<name>Mount Everest</name>
+		<LookAt>
+			<longitude>86.92671457244248</longitude>
+			<latitude>27.98751104596227</latitude>
+			<altitude>8538.450466212387</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9899.18235388468</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_057F2167FA3584488084</styleUrl>
+		<Point>
+			<coordinates>86.92503273319826,27.98806053707868,8703.403375868134</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D565326CF3584499CF8">
+		<name>Mount Everest</name>
+		<LookAt>
+			<longitude>86.91476298496417</longitude>
+			<latitude>27.98959920915766</latitude>
+			<altitude>7906.72312701687</altitude>
+			<heading>0.5224486376330235</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>18232.80353542418</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0AA43A00B7358449D165</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						86.91538060524995,27.98941572729132,0 86.91600829768986,27.98671082813213,0 86.91798397011847,27.98505629692574,0 86.92110164449895,27.98411374614198,0 86.92386219453252,27.98383493488522,0 86.92684508737273,27.98504803643212,0 86.92889123363959,27.98591586702952,0 86.93020945476091,27.98738309164378,0 86.93205462677885,27.98939167411807,0 86.93247856807709,27.99215596633666,0 86.93172263895865,27.99496970788724,0 86.93042975202226,27.99704049474645,0 86.92618019725798,27.99767155117077,0 86.92321768459472,27.99779658898716,0 86.9210052954149,27.99702369147695,0 86.91818242442481,27.99603120334743,0 86.91645571651195,27.99348236343191,0 86.91538060524995,27.98941572729132,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
